@@ -1,7 +1,7 @@
 # GeneticAlgorithm_ClosestString
 Term project for the Genetic Algorythm courste at the Aalto University, 2017.
 
-For the description of the problem and the solution, see
+For the description of the problem and the solution, see Anna_Pawelczyk___Genetic_Algorithm_Project.pdf
 
 The course:
 https://mycourses.aalto.fi/course/view.php?id=15831 
